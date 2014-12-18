@@ -1,0 +1,119 @@
+<classpath>
+  <classpathentry kind="src" path="src/main/java"/>
+  <classpathentry kind="src" path="src/main/resources" excluding="**/*.java"/>
+  <classpathentry kind="output" path="src/main/webapp/WEB-INF/classes"/>
+  <classpathentry kind="var" path="M2_REPO/javax/inject/javax.inject/1/javax.inject-1.jar" sourcepath="M2_REPO/javax/inject/javax.inject/1/javax.inject-1-sources.jar">
+    <attributes>
+      <attribute value="jar:file:/Users/jabaraster/.m2/repository/javax/inject/javax.inject/1/javax.inject-1-javadoc.jar!/" name="javadoc_location"/>
+    </attributes>
+  </classpathentry>
+  <classpathentry kind="var" path="M2_REPO/aopalliance/aopalliance/1.0/aopalliance-1.0.jar" sourcepath="M2_REPO/aopalliance/aopalliance/1.0/aopalliance-1.0-sources.jar"/>
+  <classpathentry kind="var" path="M2_REPO/asm/asm/3.3.1/asm-3.3.1.jar"/>
+  <classpathentry kind="var" path="M2_REPO/cglib/cglib/2.2.2/cglib-2.2.2.jar" sourcepath="M2_REPO/cglib/cglib/2.2.2/cglib-2.2.2-sources.jar">
+    <attributes>
+      <attribute value="jar:file:/Users/jabaraster/.m2/repository/cglib/cglib/2.2.2/cglib-2.2.2-javadoc.jar!/" name="javadoc_location"/>
+    </attributes>
+  </classpathentry>
+  <classpathentry kind="var" path="M2_REPO/org/glassfish/main/extras/glassfish-embedded-web/4.1/glassfish-embedded-web-4.1.jar" sourcepath="M2_REPO/org/glassfish/main/extras/glassfish-embedded-web/4.1/glassfish-embedded-web-4.1-sources.jar">
+    <attributes>
+      <attribute value="jar:file:/Users/jabaraster/.m2/repository/org/glassfish/main/extras/glassfish-embedded-web/4.1/glassfish-embedded-web-4.1-javadoc.jar!/" name="javadoc_location"/>
+    </attributes>
+  </classpathentry>
+  <classpathentry kind="var" path="M2_REPO/com/google/inject/guice/3.0/guice-3.0.jar" sourcepath="M2_REPO/com/google/inject/guice/3.0/guice-3.0-sources.jar">
+    <attributes>
+      <attribute value="jar:file:/Users/jabaraster/.m2/repository/com/google/inject/guice/3.0/guice-3.0-javadoc.jar!/" name="javadoc_location"/>
+    </attributes>
+  </classpathentry>
+  <classpathentry kind="var" path="M2_REPO/com/google/inject/extensions/guice-servlet/3.0/guice-servlet-3.0.jar" sourcepath="M2_REPO/com/google/inject/extensions/guice-servlet/3.0/guice-servlet-3.0-sources.jar">
+    <attributes>
+      <attribute value="jar:file:/Users/jabaraster/.m2/repository/com/google/inject/extensions/guice-servlet/3.0/guice-servlet-3.0-javadoc.jar!/" name="javadoc_location"/>
+    </attributes>
+  </classpathentry>
+  <classpathentry kind="var" path="M2_REPO/com/h2database/h2/1.4.181/h2-1.4.181.jar" sourcepath="M2_REPO/com/h2database/h2/1.4.181/h2-1.4.181-sources.jar">
+    <attributes>
+      <attribute value="jar:file:/Users/jabaraster/.m2/repository/com/h2database/h2/1.4.181/h2-1.4.181-javadoc.jar!/" name="javadoc_location"/>
+    </attributes>
+  </classpathentry>
+  <classpathentry kind="lib" path="/Users/jabaraster/Documents/Develop/Java/maven/jabaraster/jabara-bean/1.0/jabara-bean-1.0.jar" sourcepath="/Users/jabaraster/Documents/Develop/Java/maven/jabaraster/jabara-bean/1.0/jabara-bean-1.0-sources.jar">
+    <attributes>
+      <attribute value="jar:file:/Users/jabaraster/Documents/Develop/Java/maven/jabaraster/jabara-bean/1.0/jabara-bean-1.0-javadoc.jar!/" name="javadoc_location"/>
+    </attributes>
+  </classpathentry>
+  <classpathentry kind="lib" path="/Users/jabaraster/Documents/Develop/Java/maven/jabaraster/jabara-general/1.7.3/jabara-general-1.7.3.jar" sourcepath="/Users/jabaraster/Documents/Develop/Java/maven/jabaraster/jabara-general/1.7.3/jabara-general-1.7.3-sources.jar">
+    <attributes>
+      <attribute value="jar:file:/Users/jabaraster/Documents/Develop/Java/maven/jabaraster/jabara-general/1.7.3/jabara-general-1.7.3-javadoc.jar!/" name="javadoc_location"/>
+    </attributes>
+  </classpathentry>
+  <classpathentry kind="lib" path="/Users/jabaraster/Documents/Develop/Java/maven/jabaraster/jabara-wicket/2.8.1/jabara-wicket-2.8.1.jar" sourcepath="/Users/jabaraster/Documents/Develop/Java/maven/jabaraster/jabara-wicket/2.8.1/jabara-wicket-2.8.1-sources.jar">
+    <attributes>
+      <attribute value="jar:file:/Users/jabaraster/Documents/Develop/Java/maven/jabaraster/jabara-wicket/2.8.1/jabara-wicket-2.8.1-javadoc.jar!/" name="javadoc_location"/>
+    </attributes>
+  </classpathentry>
+  <classpathentry kind="var" path="M2_REPO/javax/javaee-web-api/7.0/javaee-web-api-7.0.jar" sourcepath="M2_REPO/javax/javaee-web-api/7.0/javaee-web-api-7.0-sources.jar">
+    <attributes>
+      <attribute value="jar:file:/Users/jabaraster/.m2/repository/javax/javaee-web-api/7.0/javaee-web-api-7.0-javadoc.jar!/" name="javadoc_location"/>
+    </attributes>
+  </classpathentry>
+  <classpathentry kind="var" path="M2_REPO/com/sun/jersey/jersey-core/1.18.3/jersey-core-1.18.3.jar" sourcepath="M2_REPO/com/sun/jersey/jersey-core/1.18.3/jersey-core-1.18.3-sources.jar">
+    <attributes>
+      <attribute value="jar:file:/Users/jabaraster/.m2/repository/com/sun/jersey/jersey-core/1.18.3/jersey-core-1.18.3-javadoc.jar!/" name="javadoc_location"/>
+    </attributes>
+  </classpathentry>
+  <classpathentry kind="var" path="M2_REPO/com/sun/jersey/contribs/jersey-guice/1.18.3/jersey-guice-1.18.3.jar" sourcepath="M2_REPO/com/sun/jersey/contribs/jersey-guice/1.18.3/jersey-guice-1.18.3-sources.jar">
+    <attributes>
+      <attribute value="jar:file:/Users/jabaraster/.m2/repository/com/sun/jersey/contribs/jersey-guice/1.18.3/jersey-guice-1.18.3-javadoc.jar!/" name="javadoc_location"/>
+    </attributes>
+  </classpathentry>
+  <classpathentry kind="var" path="M2_REPO/com/sun/jersey/jersey-server/1.18.3/jersey-server-1.18.3.jar" sourcepath="M2_REPO/com/sun/jersey/jersey-server/1.18.3/jersey-server-1.18.3-sources.jar">
+    <attributes>
+      <attribute value="jar:file:/Users/jabaraster/.m2/repository/com/sun/jersey/jersey-server/1.18.3/jersey-server-1.18.3-javadoc.jar!/" name="javadoc_location"/>
+    </attributes>
+  </classpathentry>
+  <classpathentry kind="var" path="M2_REPO/com/sun/jersey/jersey-servlet/1.18.3/jersey-servlet-1.18.3.jar" sourcepath="M2_REPO/com/sun/jersey/jersey-servlet/1.18.3/jersey-servlet-1.18.3-sources.jar">
+    <attributes>
+      <attribute value="jar:file:/Users/jabaraster/.m2/repository/com/sun/jersey/jersey-servlet/1.18.3/jersey-servlet-1.18.3-javadoc.jar!/" name="javadoc_location"/>
+    </attributes>
+  </classpathentry>
+  <classpathentry kind="var" path="M2_REPO/org/projectlombok/lombok/1.12.2/lombok-1.12.2.jar" sourcepath="M2_REPO/org/projectlombok/lombok/1.12.2/lombok-1.12.2-sources.jar">
+    <attributes>
+      <attribute value="jar:file:/Users/jabaraster/.m2/repository/org/projectlombok/lombok/1.12.2/lombok-1.12.2-javadoc.jar!/" name="javadoc_location"/>
+    </attributes>
+  </classpathentry>
+  <classpathentry kind="var" path="M2_REPO/org/slf4j/slf4j-api/1.6.4/slf4j-api-1.6.4.jar" sourcepath="M2_REPO/org/slf4j/slf4j-api/1.6.4/slf4j-api-1.6.4-sources.jar">
+    <attributes>
+      <attribute value="jar:file:/Users/jabaraster/.m2/repository/org/slf4j/slf4j-api/1.6.4/slf4j-api-1.6.4-javadoc.jar!/" name="javadoc_location"/>
+    </attributes>
+  </classpathentry>
+  <classpathentry kind="lib" path="/Library/Java/JavaVirtualMachines/jdk1.7.0_51.jdk/Contents/Home/lib/tools.jar"/>
+  <classpathentry kind="var" path="M2_REPO/org/apache/wicket/wicket-core/6.18.0/wicket-core-6.18.0.jar" sourcepath="M2_REPO/org/apache/wicket/wicket-core/6.18.0/wicket-core-6.18.0-sources.jar">
+    <attributes>
+      <attribute value="jar:file:/Users/jabaraster/.m2/repository/org/apache/wicket/wicket-core/6.18.0/wicket-core-6.18.0-javadoc.jar!/" name="javadoc_location"/>
+    </attributes>
+  </classpathentry>
+  <classpathentry kind="var" path="M2_REPO/org/apache/wicket/wicket-extensions/6.18.0/wicket-extensions-6.18.0.jar" sourcepath="M2_REPO/org/apache/wicket/wicket-extensions/6.18.0/wicket-extensions-6.18.0-sources.jar">
+    <attributes>
+      <attribute value="jar:file:/Users/jabaraster/.m2/repository/org/apache/wicket/wicket-extensions/6.18.0/wicket-extensions-6.18.0-javadoc.jar!/" name="javadoc_location"/>
+    </attributes>
+  </classpathentry>
+  <classpathentry kind="var" path="M2_REPO/org/apache/wicket/wicket-guice/6.18.0/wicket-guice-6.18.0.jar" sourcepath="M2_REPO/org/apache/wicket/wicket-guice/6.18.0/wicket-guice-6.18.0-sources.jar">
+    <attributes>
+      <attribute value="jar:file:/Users/jabaraster/.m2/repository/org/apache/wicket/wicket-guice/6.18.0/wicket-guice-6.18.0-javadoc.jar!/" name="javadoc_location"/>
+    </attributes>
+  </classpathentry>
+  <classpathentry kind="var" path="M2_REPO/org/apache/wicket/wicket-ioc/6.18.0/wicket-ioc-6.18.0.jar" sourcepath="M2_REPO/org/apache/wicket/wicket-ioc/6.18.0/wicket-ioc-6.18.0-sources.jar">
+    <attributes>
+      <attribute value="jar:file:/Users/jabaraster/.m2/repository/org/apache/wicket/wicket-ioc/6.18.0/wicket-ioc-6.18.0-javadoc.jar!/" name="javadoc_location"/>
+    </attributes>
+  </classpathentry>
+  <classpathentry kind="var" path="M2_REPO/org/apache/wicket/wicket-request/6.18.0/wicket-request-6.18.0.jar" sourcepath="M2_REPO/org/apache/wicket/wicket-request/6.18.0/wicket-request-6.18.0-sources.jar">
+    <attributes>
+      <attribute value="jar:file:/Users/jabaraster/.m2/repository/org/apache/wicket/wicket-request/6.18.0/wicket-request-6.18.0-javadoc.jar!/" name="javadoc_location"/>
+    </attributes>
+  </classpathentry>
+  <classpathentry kind="var" path="M2_REPO/org/apache/wicket/wicket-util/6.18.0/wicket-util-6.18.0.jar" sourcepath="M2_REPO/org/apache/wicket/wicket-util/6.18.0/wicket-util-6.18.0-sources.jar">
+    <attributes>
+      <attribute value="jar:file:/Users/jabaraster/.m2/repository/org/apache/wicket/wicket-util/6.18.0/wicket-util-6.18.0-javadoc.jar!/" name="javadoc_location"/>
+    </attributes>
+  </classpathentry>
+  <classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+</classpath>
